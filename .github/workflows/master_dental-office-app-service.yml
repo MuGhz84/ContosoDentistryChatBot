@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Dental-Office-app-service'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9DDF3066400840079023FE8D5106DC22 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25A22988DA9C4C4EB3CC0A04227C60E3 }}
           package: .
